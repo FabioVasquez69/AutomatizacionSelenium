@@ -1,0 +1,16 @@
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\AutoamtizacionSelenium.exe
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.csprojAssemblyReference.cache
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.AssemblyInfoInputs.cache
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.AssemblyInfo.cs
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\AutoamtizacionSelenium.deps.json
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\AutoamtizacionSelenium.runtimeconfig.json
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\AutoamtizacionSelenium.runtimeconfig.dev.json
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\AutoamtizacionSelenium.dll
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\AutoamtizacionSelenium.pdb
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.csproj.CoreCompileInputs.cache
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.csproj.CopyComplete
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.dll
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.pdb
+C:\Users\FABIO\source\repos\AutoamtizacionSelenium\AutoamtizacionSelenium\obj\Debug\netcoreapp3.1\AutoamtizacionSelenium.genruntimeconfig.cache
